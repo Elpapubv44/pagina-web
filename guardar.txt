@@ -1,0 +1,7 @@
+.centrar-video {
+    text-align: center;
+  }
+
+  .centrar-video iframe {
+    display: inline-block;
+  }
